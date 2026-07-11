@@ -60,25 +60,27 @@
 <text x="24" y="532.8" font-size="11" xml:space="preserve"><tspan fill="#000000">              </tspan><tspan fill="#000000"> </tspan><tspan fill="#07090b"> </tspan><tspan fill="#192028">.</tspan><tspan fill="#3d4a56">:</tspan><tspan fill="#5c6f84">-</tspan><tspan fill="#5c749a">-</tspan><tspan fill="#7997bb">+</tspan><tspan fill="#94afca">*</tspan><tspan fill="#83a5ca">+</tspan><tspan fill="#98b1cb">*</tspan><tspan fill="#94aec4">+</tspan><tspan fill="#8ba4b7">+</tspan><tspan fill="#678797">=</tspan><tspan fill="#345366">:</tspan><tspan fill="#1f2436">.</tspan><tspan fill="#13161a"> </tspan><tspan fill="#0a0c0c"> </tspan><tspan fill="#06080b"> </tspan><tspan fill="#000000">              </tspan></text>
 <text x="24" y="544.0" font-size="11" xml:space="preserve"><tspan fill="#000000">                 </tspan><tspan fill="#000000">  </tspan><tspan fill="#090a0d"> </tspan><tspan fill="#0e1116"> </tspan><tspan fill="#13171d"> </tspan><tspan fill="#161b21"> </tspan><tspan fill="#181c21"> </tspan><tspan fill="#15171c"> </tspan><tspan fill="#090c10"> </tspan><tspan fill="#050408"> </tspan><tspan fill="#050204"> </tspan><tspan fill="#060906"> </tspan><tspan fill="#000000">                 </tspan></text>
 </g>
-<g transform="translate(130,0)">
-<text x="470" y="32" class="header">rohit@nalsar</text>
+<g transform="translate(-45,0)">
+<text x="470" y="32" class="header">rohit@bhagat</text>
 <text x="470" y="54" class="sep">--------------------------------------------</text>
-<text x="470" y="76"><tspan class="label">. OS</tspan><tspan class="dots">.......</tspan><tspan class="val"> NALSAR University of Law, Hyderabad</tspan></text>
-<text x="470" y="98"><tspan class="label">. Location</tspan><tspan class="dots">..............</tspan><tspan class="val"> Jammu &amp; Kashmir, India</tspan></text>
-<text x="470" y="120"><tspan class="label">. Host</tspan><tspan class="dots">............</tspan><tspan class="val"> Full-Stack Dev + Law Student</tspan></text>
-<text x="470" y="142"><tspan class="label">. Role</tspan><tspan class="dots">.......................</tspan><tspan class="val"> FDE @ Interactive</tspan></text>
-<text x="470" y="164"><tspan class="label">. IDE</tspan><tspan class="dots">......................</tspan><tspan class="val"> VSCode, Claude Code</tspan></text>
-<text x="470" y="196"><tspan class="label">. Languages.Programming</tspan><tspan class="dots">.</tspan><tspan class="val"> JavaScript, TypeScript, PHP</tspan></text>
-<text x="470" y="218"><tspan class="label">. Languages.Computer</tspan><tspan class="dots">....</tspan><tspan class="val"> HTML, CSS, JSON, LaTeX</tspan></text>
-<text x="470" y="240"><tspan class="label">. Languages.Real</tspan><tspan class="dots">................</tspan><tspan class="val"> English, Hindi</tspan></text>
-<text x="470" y="272"><tspan class="label">. Hobbies.Software</tspan><tspan class="dots">.</tspan><tspan class="val"> Claude Code, API Design, DevTools</tspan></text>
-<text x="470" y="294"><tspan class="label">. Hobbies.Legal</tspan><tspan class="dots">.</tspan><tspan class="val"> Public Interest Law, Policy Research</tspan></text>
-<text x="470" y="326" class="sep">- Contact -----------------------------------</text>
-<text x="470" y="348"><tspan class="label">. Portfolio</tspan><tspan class="dots">....................</tspan><tspan class="val"> rohitbhagat.dev</tspan></text>
-<text x="470" y="370"><tspan class="label">. LinkedIn</tspan><tspan class="dots">...........</tspan><tspan class="val"> in/rohit-bhagat-910371187</tspan></text>
-<text x="470" y="392"><tspan class="label">. GitHub</tspan><tspan class="dots">............</tspan><tspan class="val"> github.com/rohitbhagat9302</tspan></text>
-<text x="470" y="424" class="sep">- GitHub Stats ------------------------------</text>
-<text x="470" y="446"><tspan class="label">. Repos</tspan><tspan class="dots">.......</tspan><tspan class="val"> 12  |  Stars: 1  |  Followers: 0</tspan></text>
-<text x="470" y="468"><tspan class="label">. Top Langs</tspan><tspan class="dots">..</tspan><tspan class="val"> JavaScript, TypeScript, HTML, PHP</tspan></text>
+<text x="470" y="76"><tspan class="label">. OS</tspan><tspan class="dots">.......</tspan><tspan class="val"> Yogananda College of Engineering &amp; Technology</tspan></text>
+<text x="470" y="98"><tspan class="label">. Degree</tspan><tspan class="dots">.....</tspan><tspan class="val"> B.E. Computer Science &amp; Engineering</tspan></text>
+<text x="470" y="120"><tspan class="label">. Years</tspan><tspan class="dots">......</tspan><tspan class="val"> 2020 - 2025  (GPA: 8.5/10)</tspan></text>
+<text x="470" y="142"><tspan class="label">. Location</tspan><tspan class="dots">..............</tspan><tspan class="val"> Jammu &amp; Kashmir, India</tspan></text>
+<text x="470" y="164"><tspan class="label">. Host</tspan><tspan class="dots">............</tspan><tspan class="val"> Full-Stack Developer</tspan></text>
+<text x="470" y="186"><tspan class="label">. Role</tspan><tspan class="dots">.......................</tspan><tspan class="val"> FDE @ Interactive</tspan></text>
+<text x="470" y="208"><tspan class="label">. IDE</tspan><tspan class="dots">......................</tspan><tspan class="val"> VSCode, Claude Code</tspan></text>
+<text x="470" y="240"><tspan class="label">. Languages.Programming</tspan><tspan class="dots">.</tspan><tspan class="val"> JavaScript, TypeScript, PHP</tspan></text>
+<text x="470" y="262"><tspan class="label">. Languages.Computer</tspan><tspan class="dots">....</tspan><tspan class="val"> HTML, CSS, JSON, LaTeX</tspan></text>
+<text x="470" y="284"><tspan class="label">. Languages.Real</tspan><tspan class="dots">................</tspan><tspan class="val"> English, Hindi</tspan></text>
+<text x="470" y="316"><tspan class="label">. Hobbies.Software</tspan><tspan class="dots">.</tspan><tspan class="val"> Claude Code, API Design, DevTools</tspan></text>
+<text x="470" y="338"><tspan class="label">. Hobbies.Legal</tspan><tspan class="dots">.</tspan><tspan class="val"> Public Interest Law, Policy Research</tspan></text>
+<text x="470" y="370" class="sep">- Contact -----------------------------------</text>
+<text x="470" y="392"><tspan class="label">. Portfolio</tspan><tspan class="dots">....................</tspan><tspan class="val"> rohitbhagat.dev</tspan></text>
+<text x="470" y="414"><tspan class="label">. LinkedIn</tspan><tspan class="dots">...........</tspan><tspan class="val"> in/rohit-bhagat-910371187</tspan></text>
+<text x="470" y="436"><tspan class="label">. GitHub</tspan><tspan class="dots">............</tspan><tspan class="val"> github.com/rohitbhagat9302</tspan></text>
+<text x="470" y="468" class="sep">- GitHub Stats ------------------------------</text>
+<text x="470" y="490"><tspan class="label">. Repos</tspan><tspan class="dots">.......</tspan><tspan class="val"> 12  |  Stars: 1  |  Followers: 0</tspan></text>
+<text x="470" y="512"><tspan class="label">. Top Langs</tspan><tspan class="dots">..</tspan><tspan class="val"> JavaScript, TypeScript, HTML, PHP</tspan></text>
 </g>
 </svg>
